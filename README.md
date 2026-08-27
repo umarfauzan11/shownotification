@@ -6,7 +6,7 @@ Say goodbye to jarring `alert()` popups. Replace them effortlessly with `shn()`.
 
 ---
 
-## ⚡ Installation
+## Installation
 
 ```bash
 npm install @bmdu_studio/shnjs
@@ -21,7 +21,7 @@ bun add @bmdu_studio/shnjs
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Minimal Usage (Drop-in `alert()` replacement)
 
@@ -43,7 +43,7 @@ shn.info("New update available.");
 
 ---
 
-## 🛠️ Advanced Usage
+## Advanced Usage
 
 ### Custom Options
 
@@ -87,7 +87,7 @@ shn.config({
 
 ---
 
-## 🌐 Browser / Script Tag Usage
+## Browser / Script Tag Usage
 
 You can also use it directly via CDN without build tools:
 
@@ -100,6 +100,6 @@ You can also use it directly via CDN without build tools:
 
 ---
 
-## 📜 License
+## License
 
-MIT © [BMDU Studio](https://github.com/bmdu-studio)
+MIT © Uwebly by Bmdu Studio
