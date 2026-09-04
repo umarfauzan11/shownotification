@@ -1,6 +1,6 @@
 # @bmdu_studio/shnjs
 
-> Super lightweight, zero-dependency, and elegant notification/alert replacement library for modern web applications.
+Super lightweight, zero-dependency, and elegant notification/alert replacement library for modern web applications.
 
 Say goodbye to jarring `alert()` popups. Replace them effortlessly with `shn()`.
 
